@@ -1,0 +1,33 @@
+body{
+    font-family: 'Roboto-Regular';
+    background-color: #f5f5f5;
+}
+
+
+
+.navbar-brand{
+    text-align: left;
+    padding: 10px;
+    color: aliceblue;
+}
+
+h1{
+    text-align: center;
+    padding: 20px;
+}
+.card{
+    color: white;
+    height: 30vh;
+    padding: 10px;
+    padding-left: 1.5rem;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+}
+
+
+.completed{
+    text-decoration: line-through;
+    color: green;
+    
+}
