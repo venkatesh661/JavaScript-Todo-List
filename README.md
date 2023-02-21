@@ -24,6 +24,8 @@ Todo List is my project  done by `Javascript` and `HTML`,  where users can addã€
 - Tasks and projects are managed with `localStorage`
 
 
+-The Output of the Todo-list is given below
+
 
 
 ![OutputDemo png](https://user-images.githubusercontent.com/120723992/220358309-7cff194b-03a3-4c86-b29f-f98d2135aad6.png)
