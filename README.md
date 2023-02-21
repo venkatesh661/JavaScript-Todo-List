@@ -28,4 +28,6 @@ Todo List is my project  done by `Javascript` and `HTML`,  where users can addã€
 
 
 
-![OutputDemo png](https://user-images.githubusercontent.com/120723992/220359853-c92be19b-89e4-4a13-9db9-7e53dacde6ce.png)
+
+
+-![OutputDemo png](https://user-images.githubusercontent.com/120723992/220359853-c92be19b-89e4-4a13-9db9-7e53dacde6ce.png)
