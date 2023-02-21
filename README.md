@@ -19,7 +19,7 @@ Todo List is my project  done by `Javascript` and `HTML`,  where users can addã€
 - Each Task have checkbox, checked tasks will be considered completed, tasks that are not checked will be considered pending
 - User can clear all tasks
 - User can switch status button freely to view task status
-- Tasks are divided into two categories : **All**, **Completed** 
+- Tasks are divided into many categories like Add Task Completed, Edit Delete, DeleteAll 
 -In this one users can search the task that he wants 
 - Tasks and projects are managed with `localStorage`
 
