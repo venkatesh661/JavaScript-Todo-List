@@ -11,7 +11,7 @@ Todo List is my project  done by `Javascript` and `HTML`,  where users can addã€
 - `HTML5`
 - `CSS3`
 - `Javascript`
-- 
+
 
 ## Features
 
@@ -20,4 +20,5 @@ Todo List is my project  done by `Javascript` and `HTML`,  where users can addã€
 - User can clear all tasks
 - User can switch status button freely to view task status
 - Tasks are divided into two categories : **All**, **Completed** 
+-In this one users can search the task that he wants 
 - Tasks and projects are managed with `localStorage`
