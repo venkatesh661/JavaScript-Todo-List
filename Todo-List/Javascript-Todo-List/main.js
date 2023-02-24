@@ -146,18 +146,7 @@ let addedtasklist = document.getElementById("addedtasklist");
     })
 
 
-//complete task
-//  function completetask(index){
-//     let webtask = localStorage.getItem("localtasks");
-//     let taskObj = JSON.parse(webtask);
-//     taskObj[index] = '<span style="text-decoration:line-through">' + taskObj[index] + '</span>';
-//     let addedtasklist = document.getElementById("addedtasklist");
-//     addedtasklist.addEventListener("click", function(e){
-//         console.log(addedtasklist)
-//     })
-//     localStorage.setItem("localtasks", JSON.stringify(taskObj));
-//     showTask();
-// } 
+
 
 
 // Delete All Btn
